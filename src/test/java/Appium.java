@@ -18,7 +18,7 @@ public class Appium {
 
         desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
         desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "SM S908B");
-        desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "13.0");
+        desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "14.0");
         desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "UiAutomator2");
         desiredCapabilities.setCapability(MobileCapabilityType.APP, "C:/Users/ayane/IdeaProjects/AppiumVysor2/APK/Trendyol - Online Alışveriş_7.26.1.811_APKPure.apk");
 
