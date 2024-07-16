@@ -10,7 +10,7 @@ public class Appium {
 
     //C:\Users\ayane\IdeaProjects\AppiumVysor2\APK\Trendyol - Online Alışveriş_7.26.1.811_APKPure.apk
 
-
+// testcomment
 
 
     public static void main(String[] args) throws MalformedURLException, InterruptedException {
